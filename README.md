@@ -1,5 +1,5 @@
 <h1 align="center">
-    nps API | NLW#4
+    Nps API | NLW#4
 </h1>
 
 <p align="center"> Application developed in the fourth edition of Rocketseat Next Level Week </p>
